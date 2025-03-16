@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "64b3f35b0c8d4a1d3f77e5d1",
+    "tagName": "Technology",
+    "tag": "technology"
+  },
+  {
+    "_id": "64b3f35b0c8d4a1d3f77e5d2",
+    "tagName": "Education",
+    "tag": "education"
+  },
+  {
+    "_id": "64b3f35b0c8d4a1d3f77e5d3",
+    "tagName": "Health",
+    "tag": "health"
+  },
+  {
+    "_id": "64b3f35b0c8d4a1d3f77e5d4",
+    "tagName": "Science",
+    "tag": "science"
+  },
+  {
+    "_id": "64b3f35b0c8d4a1d3f77e5d5",
+    "tagName": "Sports",
+    "tag": "sports"
+  },
+  {
+    "_id": "64b3f35b0c8d4a1d3f77e5d6",
+    "tagName": "Business",
+    "tag": "business"
+  },
+  {
+    "_id": "64b3f35b0c8d4a1d3f77e5d7",
+    "tagName": "Lifestyle",
+    "tag": "lifestyle"
+  },
+  {
+    "_id": "64b3f35b0c8d4a1d3f77e5d8",
+    "tagName": "Entertainment",
+    "tag": "entertainment"
+  },
+  {
+    "_id": "64b3f35b0c8d4a1d3f77e5d9",
+    "tagName": "Nature",
+    "tag": "nature"
+  },
+  {
+    "_id": "64b3f35b0c8d4a1d3f77e5da",
+    "tagName": "Food",
+    "tag": "food"
+  }
+]

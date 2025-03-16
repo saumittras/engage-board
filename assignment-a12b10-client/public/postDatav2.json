@@ -1,0 +1,122 @@
+[
+  {
+    "authorImage": "https://example.com/author1.jpg",
+    "authorName": "Harper Young",
+    "authorEmail": "harperyoung@example.com",
+    "title": "Breaking Down the Basics of Coding for Beginners",
+    "postImage": "https://i.ibb.co/fNPgqww/Screenshot-2024-10-23-093433.png",
+    "description": "A beginner's guide to coding languages, tools, and how to start your programming journey. Coding might seem intimidating at first, but with the right guidance, anyone can learn the fundamentals. In this post, we'll explore common languages such as Python, JavaScript, and Java, and understand how each serves different purposes. Additionally, we'll dive into essential tools like text editors, IDEs, and version control systems. By the end of this post, you'll have a roadmap to kickstart your programming journey.",
+    "tag": "coding",
+    "upVote": 0,
+    "downVote": 0,
+    "postTime": "2025-01-25T15:16:26.644Z"
+  },
+  {
+    "authorImage": "https://example.com/author2.jpg",
+    "authorName": "Evelyn Carter",
+    "authorEmail": "evelyncarter@example.com",
+    "title": "Top 10 Tips for Effective Time Management",
+    "postImage": "https://i.ibb.co/fNPgqww/Screenshot-2024-10-23-093433.png",
+    "description": "Struggling to manage your time effectively? Here are ten actionable tips to boost your productivity and ensure you make the most out of each day. From prioritizing tasks to eliminating distractions, we cover everything you need to know. Learn how to set achievable goals, create realistic schedules, and utilize tools like planners and time-tracking apps. These strategies will help you stay focused and achieve your objectives more efficiently.",
+    "tag": "productivity",
+    "upVote": 0,
+    "downVote": 0,
+    "postTime": "2025-01-25T15:20:00.644Z"
+  },
+  {
+    "authorImage": "https://example.com/author3.jpg",
+    "authorName": "Liam Smith",
+    "authorEmail": "liamsmith@example.com",
+    "title": "Understanding the Fundamentals of Graphic Design",
+    "postImage": "https://i.ibb.co/fNPgqww/Screenshot-2024-10-23-093433.png",
+    "description": "Graphic design is more than just creating visuals; it's about conveying messages effectively through design elements. This post dives into the core principles of graphic design, including balance, contrast, alignment, repetition, and hierarchy. Whether you're designing for print or digital media, understanding these fundamentals will elevate your work and ensure your designs are both aesthetically pleasing and functional.",
+    "tag": "design",
+    "upVote": 0,
+    "downVote": 0,
+    "postTime": "2025-01-25T15:24:00.644Z"
+  },
+  {
+    "authorImage": "https://example.com/author4.jpg",
+    "authorName": "Oliver Brown",
+    "authorEmail": "oliverbrown@example.com",
+    "title": "The Importance of Mental Health in Today's World",
+    "postImage": "https://i.ibb.co/fNPgqww/Screenshot-2024-10-23-093433.png",
+    "description": "Mental health is a vital component of overall well-being, yet it often gets overlooked. In this post, we highlight why mental health matters, how to recognize signs of stress or burnout, and the importance of seeking help when needed. We'll also discuss strategies for maintaining mental well-being, such as mindfulness practices, regular exercise, and building a strong support network. Let's break the stigma and prioritize mental health together.",
+    "tag": "health",
+    "upVote": 0,
+    "downVote": 0,
+    "postTime": "2025-01-25T15:28:00.644Z"
+  },
+  {
+    "authorImage": "https://example.com/author5.jpg",
+    "authorName": "Emma Davis",
+    "authorEmail": "emmadavis@example.com",
+    "title": "The Ultimate Guide to Traveling on a Budget",
+    "postImage": "https://i.ibb.co/fNPgqww/Screenshot-2024-10-23-093433.png",
+    "description": "Dreaming of traveling the world but worried about the cost? This guide is for you. Discover practical tips for finding affordable accommodations, saving on flights, and making the most of your travel budget. From choosing off-season destinations to leveraging rewards programs, you'll learn how to explore the globe without breaking the bank. Adventure awaits, and it doesn't have to be expensive!",
+    "tag": "travel",
+    "upVote": 0,
+    "downVote": 0,
+    "postTime": "2025-01-25T15:32:00.644Z"
+  },
+  {
+    "authorImage": "https://example.com/author6.jpg",
+    "authorName": "Sophia Martinez",
+    "authorEmail": "sophiamartinez@example.com",
+    "title": "How to Start a Successful Blog in 2025",
+    "postImage": "https://i.ibb.co/fNPgqww/Screenshot-2024-10-23-093433.png",
+    "description": "Blogging remains a powerful way to share your ideas and connect with an audience. In this post, we cover the essentials of starting a successful blog, including choosing a niche, selecting the right platform, and creating engaging content. You'll also learn about SEO basics, social media promotion, and monetization strategies to turn your blog into a thriving online presence.",
+    "tag": "blogging",
+    "upVote": 0,
+    "downVote": 0,
+    "postTime": "2025-01-25T15:36:00.644Z"
+  },
+  {
+    "authorImage": "https://example.com/author7.jpg",
+    "authorName": "James Wilson",
+    "authorEmail": "jameswilson@example.com",
+    "title": "Mastering the Art of Public Speaking",
+    "postImage": "https://i.ibb.co/fNPgqww/Screenshot-2024-10-23-093433.png",
+    "description": "Public speaking is a skill that can be developed with practice and preparation. This post explores techniques to overcome stage fright, structure your speech effectively, and connect with your audience. From rehearsing your delivery to using visual aids, you'll find actionable tips to boost your confidence and leave a lasting impression.",
+    "tag": "communication",
+    "upVote": 0,
+    "downVote": 0,
+    "postTime": "2025-01-25T15:40:00.644Z"
+  },
+  {
+    "authorImage": "https://example.com/author8.jpg",
+    "authorName": "Charlotte Harris",
+    "authorEmail": "charlotteharris@example.com",
+    "title": "Exploring the World of Digital Marketing",
+    "postImage": "https://i.ibb.co/fNPgqww/Screenshot-2024-10-23-093433.png",
+    "description": "Digital marketing is a rapidly evolving field with endless opportunities. In this post, we cover the basics of search engine optimization (SEO), pay-per-click advertising (PPC), social media marketing, and email campaigns. Whether you're a business owner or aspiring marketer, these insights will help you navigate the digital landscape and create impactful strategies.",
+    "tag": "marketing",
+    "upVote": 0,
+    "downVote": 0,
+    "postTime": "2025-01-25T15:44:00.644Z"
+  },
+  {
+    "authorImage": "https://example.com/author9.jpg",
+    "authorName": "William Clark",
+    "authorEmail": "williamclark@example.com",
+    "title": "The Science Behind a Good Night's Sleep",
+    "postImage": "https://i.ibb.co/fNPgqww/Screenshot-2024-10-23-093433.png",
+    "description": "Sleep is essential for physical and mental health, yet many of us struggle to get enough. This post delves into the science of sleep, exploring how it impacts brain function, memory, and overall well-being. We'll also share tips for improving sleep hygiene, such as creating a bedtime routine, reducing screen time, and optimizing your sleeping environment.",
+    "tag": "health",
+    "upVote": 0,
+    "downVote": 0,
+    "postTime": "2025-01-25T15:48:00.644Z"
+  },
+  {
+    "authorImage": "https://example.com/author10.jpg",
+    "authorName": "Isabella Lewis",
+    "authorEmail": "isabellalewis@example.com",
+    "title": "10 Easy Recipes for Busy Weeknights",
+    "postImage": "https://i.ibb.co/fNPgqww/Screenshot-2024-10-23-093433.png",
+    "description": "Cooking after a long day can be daunting, but it doesn't have to be. In this post, we share ten quick and easy recipes perfect for busy weeknights. From one-pot meals to 30-minute dishes, these recipes are simple, delicious, and sure to become family favorites. Save time without compromising on flavor.",
+    "tag": "food",
+    "upVote": 0,
+    "downVote": 0,
+    "postTime": "2025-01-25T15:52:00.644Z"
+  }
+]

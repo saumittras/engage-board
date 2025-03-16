@@ -1,0 +1,48 @@
+# Navbar-Section
+1. create a navbar with required information → okay
+
+# Home-Page
+2. show all required sections mentioned in the requirements
+└─ a section for the announcement to show all the announcements → a section for the announcement to show all the announcements - not okay
+└─ Implement share functionality → Implement share functionality - not okay
+└─ comments count and votes count on each post → comments count and votes count on each post - not okay
+
+# homepage-responsive
+3. Make the homepage responsive for mobile, tablet and desktop → okay
+
+# Admin-Dashboard
+4. Must be a dashboard layout with functional necessary links → not okay.
+5. Manage Users → not okay.
+6. Make announcement route with necessary features and form → not okay.
+7. Reported Activities/Comments Page → not okay.
+
+# User-Dashboard
+8. Must be a dashboard layout-necessary links are functional → okay
+9. My Profile page with all the necessary information → not okay.
+10. My posts-user will be able to see all his posts in tabular view → not okay.
+11. Add Post: There will be a form with necessary fields.
+└─ On clicking the Become a Member, users will be redirected to the Membership Page → On clicking the Become a Member, users will be redirected to the Membership Page - not okay
+
+# Authentication-Part
+12. login and registration → okay
+
+# Membership-page
+13. Must be a private route with a functional payment system → okay
+
+# Challenges-Part
+14. Implement JWT on login (Email/Password and social) and store the token → okay
+15. Implement pagination at the footer of all the tables → okay
+16. Admin Profile with necessary info and sections → not okay.
+
+
+Important Instructions:
+→ Do not post on Facebook, if you have any marks-related issues.
+→ Make sure to read all the requirements carefully, If you have any marks-related confusion.
+→ If you are confident and If there is a mistake from the examiner's end, give a recheck request.
+→ If your recheck reason was not valid, 2 marks will be deducted from your current marks.
+→ Please check the documentation below for more information about how to recheck.
+
+We have a recheck option, so please refrain from posting to the group.
+If your recheck reason is valid you will get marks, if not valid 2 marks will be deducted.
+
+Let's Code_ Your Career
